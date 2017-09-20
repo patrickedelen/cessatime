@@ -1,0 +1,15 @@
+{
+  "name": "cessatime-api",
+  "version": "1.0.0",
+  "description": "google cal api for cessatime",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick R Edelen",
+  "license": "MIT",
+  "dependencies": {
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^21.3.0"
+  }
+}
